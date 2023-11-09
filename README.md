@@ -1,17 +1,61 @@
-<h2>🌌 Greetings, pioneers of the digital realm! I'm @dragos-dreamcraft 🌌</h2>
+<h2>🌌 Fast-Track Your Success with @dreamcraft-io - Get the Product Out, Swiftly! 🌌</h2>
 
-<p align="center">
-  <img src="https://giphy.com/clips/space-science-astronomy-APExBZ9Aqqy4cDXNoS" width="300px">
-</p>
+# Dragos Resetnic | CEO | Expedient Team Leader
 
-🛠 **Crafting**: Innovative projects that redefine the boundaries of technology.  
-🌐 **Ventures**: Leading an outsource powerhouse, bridging visions with realities.  
-📚 **Proficiency**: Ensuring top-tier solutions for our clients.  
-🤝 **Partnership**: Seeking collaborations that amplify impact. Got a game-changing idea? Let's elevate it together!  
-📞 **Engage**: Interested in joining our journey? [Email me](dragos@dreamcraft.io).
+🛠 **Immediate Solutions**: Specialized in rapid development to bring your ideas to market quickly.  
+🌐 **Efficient Outsourcing**: Serving as your interim powerhouse - bridging the gap until your team takes over.  
+📚 **Expert Execution**: Delivering fast-paced, high-quality solutions consistently.  
+🤝 **Strategic Partnerships**: Partner with us to accelerate your project from concept to reality.  
+📞 **Team Augmentation**: In need of immediate manpower? [Reach out to me](dragos@dreamcraft.io) for swift integration.
 
-<h3 align="center">Innovation is our compass. Excellence, our path.</h3>
+**Core Proficiencies**:  
+- **Languages**: Swift, Objective-C, and Diverse Database Technologies (T-SQL, PL/SQL, MySQL).
+
+## 💻 Comprehensive Technology Stack
+- **Swift Expertise**: Covering various versions and frameworks.
+- **SwiftUI**: For modern UI/UX across iOS, watchOS, Widgets, App Clips.
+- **Apple TV/AirPlay**: Pioneering innovative display solutions.
+- **Advanced Technologies**: Realm, Lottie, JWT, CryptoSwift, RxSwift.
+- **Web and Server-Side**: Vapor, SwiftNIO, REST APIs, Firebase.
+- **Full-Stack Capabilities**: Advanced CSS, C#, .Net Core.
+- **Database Mastery**: MS SQL, SQL, Objective-C, MongoDB.
+- **Specialized Technologies**: Elasticsearch, RabbitMQ, GraphQL.
+- **Proficient with**: Apache Kafka, PostgreSQL, Redis.
+- **Platforms**: Mac OS, iOS.
+- **Design Tools Mastery**: Zeplin, Figma, Sketch.
+
+### 📊 Data-Driven Analytics
+- Utilizing tools like Amplitude, AppsFlyer, Firebase for insightful analytics.
+
+### 🛠 Infra/DevOps Agility
+- CI/CD tools expertise, rapid deployment strategies.
+- Cloud solutions with AWS, Digital Ocean, Cloudflare.
+- Monitoring and Analysis using Sentry, Postman, Proxyman.
+- App Publishing on Apple App Store and Google Play.
+
+### 💳 Payment Integration Specialists
+- Integrating Apple StoreKit, Stripe, PayPal, Braintree, Klarna.
+
+### 🔗 DeFi and Blockchain Solutions
+- Web 3.0 technologies, Metamask integration.
+
+### 🔒 Reliable Authentication Services
+- Implementing Apple ID, Google, Facebook/Meta, Okta.
+
+### 📞 Exceptional Support Services 
+- Proficient with Intercom, Zendesk, Freshdesk, Kayako.
+
+### 📈 Proven Project Management Frameworks
+- Agile methodologies, diverse development practices, effective project management tools.
+
+## 🏫 Education
+### University of Babeș-Bolyai
+- 2011 – 2015
+### Faculty of Applied Mathematics & Informatics
+- Computer Science / Information Engineering Programmer.
+
+<h3 align="center">Delivering Tomorrow's Innovations, Today.</h3>
 
 ---
 
-<sub>Side note: @dragos-dreamcraft isn't just a name—it's a testament to boundless aspirations and the magic of creation.</sub>
+<sub>Note: 'dreamcraft' – Empowering rapid launch of visionary projects.</sub>
