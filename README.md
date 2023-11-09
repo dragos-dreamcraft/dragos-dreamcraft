@@ -25,7 +25,7 @@
 - **Design Tools Mastery**: Zeplin, Figma, Sketch.
 
 ### 📊 Data-Driven Analytics
-- Utilizing tools like Amplitude, AppsFlyer, Firebase for insightful analytics.
+- Amplitude, AppsFlyer, Firebase for insightful analytics.
 
 ### 🛠 Infra/DevOps Agility
 - CI/CD tools expertise, rapid deployment strategies.
@@ -33,17 +33,17 @@
 - Monitoring and Analysis using Sentry, Postman, Proxyman.
 - App Publishing on Apple App Store and Google Play.
 
-### 💳 Payment Integration Specialists
-- Integrating Apple StoreKit, Stripe, PayPal, Braintree, Klarna.
+### 💳 Payment Integration
+- Apple StoreKit, Stripe, PayPal, Braintree, Klarna.
 
 ### 🔗 DeFi and Blockchain Solutions
 - Web 3.0 technologies, Metamask integration.
 
 ### 🔒 Reliable Authentication Services
-- Implementing Apple ID, Google, Facebook/Meta, Okta.
+- Apple ID, Google, Facebook/Meta, Okta.
 
-### 📞 Exceptional Support Services 
-- Proficient with Intercom, Zendesk, Freshdesk, Kayako.
+### 📞 Support Services 
+- Intercom, Zendesk, Freshdesk, Kayako.
 
 ### 📈 Proven Project Management Frameworks
 - Agile methodologies, diverse development practices, effective project management tools.
