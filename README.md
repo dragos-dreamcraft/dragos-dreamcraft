@@ -6,7 +6,7 @@
 🌐 **Efficient Outsourcing**: Serving as your interim powerhouse - bridging the gap until your team takes over.  
 📚 **Expert Execution**: Delivering fast-paced, high-quality solutions consistently.  
 🤝 **Strategic Partnerships**: Partner with us to accelerate your project from concept to reality.  
-📞 **Team Augmentation**: In need of immediate manpower? [Reach out to me](dragos@dreamcraft.io) for swift integration.
+📞 **Team Augmentation**: In need of immediate manpower? Reach out to me at <a href="mailto:dragos@dreamcraft.io">dragos@dreamcraft.io</a> for swift integration.
 
 **Core Proficiencies**:  
 - **Languages**: Swift, Objective-C, and Diverse Database Technologies (T-SQL, PL/SQL, MySQL).
