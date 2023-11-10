@@ -1,4 +1,4 @@
-<h2>🌌 Fast-Track Your Success with @dreamcraft-io - Get the Product Out, Swiftly! 🌌</h2>
+<h2>🌌 Fast-Track Your Success with <a hfref="https://github.com/dreamcraft-io">dreamcraft-io</a> - Get the Product Out, Craftly! 🌌</h2>
 
 # Dragos Resetnic | CEO | Expedient Team Leader
 
@@ -9,7 +9,7 @@
 📞 **Team Augmentation**: In need of immediate manpower? Reach out to me at <a href="mailto:dragos@dreamcraft.io">dragos@dreamcraft.io</a> for swift integration.
 
 **Core Proficiencies**:  
-- **Languages**: Swift, Objective-C, and Diverse Database Technologies (T-SQL, PL/SQL, MySQL).
+- **Languages**: Swift, Objective-C, and Diverse Database Technologies.
 
 ## 💻 Comprehensive Technology Stack
 - **Swift Expertise**: Covering various versions and frameworks.
@@ -17,10 +17,8 @@
 - **Apple TV/AirPlay**: Pioneering innovative display solutions.
 - **Advanced Technologies**: Realm, Lottie, JWT, CryptoSwift, RxSwift.
 - **Web and Server-Side**: Vapor, SwiftNIO, REST APIs, Firebase.
-- **Full-Stack Capabilities**: Advanced CSS, C#, .Net Core.
-- **Database Mastery**: MS SQL, SQL, Objective-C, MongoDB.
-- **Specialized Technologies**: Elasticsearch, RabbitMQ, GraphQL.
-- **Proficient with**: Apache Kafka, PostgreSQL, Redis.
+- **Full-Stack Capabilities**: CSS, C#
+- **Database Mastery**: MS SQL, SQL, MongoDB.
 - **Platforms**: Mac OS, iOS.
 - **Design Tools Mastery**: Zeplin, Figma, Sketch.
 
@@ -52,10 +50,21 @@
 ### University of Babeș-Bolyai
 - 2011 – 2015
 ### Faculty of Applied Mathematics & Informatics
-- Computer Science / Information Engineering Programmer.
+- Computer Science / Information Engineering.
+
+## Contacts 
+
+🚀 #outsourcing #leadership #product_design #CEO #innovation  #swift #mentoring
+
+📬 Email: [dragos@dreamcraft.io](mailto:dragos@dreamcraft.io)  
+🔗 LinkedIn: [Dragos Resetnic Profile](https://www.linkedin.com/in/dragos-dreamcraft/)  
+🔗 LinkedIn: [Dreamcraft Company Page](https://www.linkedin.com/company/dreamcraftio)  🐦 X/Twitter: [@dream_craft_io](https://twitter.com/dream_craft_io)  
+🔧 Github: [dreamcraft-io](https://github.com/dreamcraft-io)  
+🌍 Website: [https://dreamcraft.io](https://dreamcraft.io)  
+📝 Blog: [https://blog.dreamcraft.io](https://blog.dreamcraft.io)`
 
 <h3 align="center">Delivering Tomorrow's Innovations, Today.</h3>
 
 ---
 
-<sub>Note: 'dreamcraft' – Empowering rapid launch of visionary projects.</sub>
+<sub>Note: '<a href="https://github.com/dreamcraft-io">dreamcraft.io</a>'– Empowering rapid launch of visionary projects.</sub>
