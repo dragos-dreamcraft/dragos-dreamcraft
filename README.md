@@ -58,10 +58,11 @@
 
 📬 Email: [dragos@dreamcraft.io](mailto:dragos@dreamcraft.io)  
 🔗 LinkedIn: [Dragos Resetnic Profile](https://www.linkedin.com/in/dragos-dreamcraft/)  
-🔗 LinkedIn: [Dreamcraft Company Page](https://www.linkedin.com/company/dreamcraftio)  🐦 X/Twitter: [@dream_craft_io](https://twitter.com/dream_craft_io)  
+🔗 LinkedIn: [Dreamcraft Company Page](https://www.linkedin.com/company/dreamcraftio)  
+🐦 X/Twitter: [@dream_craft_io](https://twitter.com/dream_craft_io)  
 🔧 Github: [dreamcraft-io](https://github.com/dreamcraft-io)  
 🌍 Website: [https://dreamcraft.io](https://dreamcraft.io)  
-📝 Blog: [https://blog.dreamcraft.io](https://blog.dreamcraft.io)`
+📝 Blog: [https://blog.dreamcraft.io](https://blog.dreamcraft.io)
 
 <h3 align="center">Delivering Tomorrow's Innovations, Today.</h3>
 
